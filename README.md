@@ -1,11 +1,5 @@
 # Learned quantum feature embeddings
 
-Second project after the credit risk one, this time going after Qinetic's
-"Learned Quantum Feature Embeddings" line specifically - the idea that how
-you encode classical data into a circuit should itself be trainable instead
-of just picking a standard feature map (ZZFeatureMap etc) and hoping it
-works.
-
 ## the idea
 
 Instead of training a circuit end-to-end on a classification loss (that's
