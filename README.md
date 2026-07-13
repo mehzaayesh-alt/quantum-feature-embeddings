@@ -1,4 +1,4 @@
-# learned quantum feature embeddings
+# Learned quantum feature embeddings
 
 Second project after the credit risk one, this time going after Qinetic's
 "Learned Quantum Feature Embeddings" line specifically - the idea that how
