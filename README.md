@@ -2,8 +2,7 @@
 
 ## the idea
 
-Instead of training a circuit end-to-end on a classification loss (that's
-what the VQC in the credit risk project does), this trains the *encoding*
+Instead of training a circuit end-to-end on a classification loss, this trains the *encoding*
 itself against kernel-target alignment (KTA) - basically nudge the
 embedding so same-class points end up close together in Hilbert space and
 different-class points end up far apart, measured by state fidelity. Once
